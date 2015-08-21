@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_suma">Suma</string>
+    <string name="title_activity_resta">Resta</string>
+    <string name="title_activity_multiplicacion">Multiplicacion</string>
+    <string name="title_activity_division">Division</string>
+</resources>
