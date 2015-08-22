@@ -1,2 +1,2 @@
 # TareaMoviles
-tarea de programación de dispositivos móviles
+tarea de programación de dispositivos móviles.
